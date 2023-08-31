@@ -14,4 +14,4 @@ A Python package performs a small collection of functions on pyspark DatFrames. 
 ## How to install the package:
 To install this package, run the following command:
 
-```pip install package_pyspark_utils/dist/pyspark_utils-0.0.1-py3-none-any.whl
+```pip install package_pyspark_utils/dist/pyspark_utils-0.0.1-py3-none-any.whl ```
