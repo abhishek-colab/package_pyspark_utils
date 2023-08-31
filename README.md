@@ -1,6 +1,6 @@
 # package_pyspark_utils
 
-A Python package performs a small collection of functions on pyspark DatFrames. It contains the following functions:
+A Python package to perform a small collection of functions on pyspark DataFrames. It contains the following functions:
 
 - data_prep:
   - prepare_data: This function prepares data to be fed to a ml model. Performs indexing and one hot encoding on categorical columns.
